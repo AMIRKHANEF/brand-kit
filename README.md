@@ -1,1 +1,1 @@
-# brand-kit
+# PolkaGate Brand Kit 
